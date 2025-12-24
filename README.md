@@ -17,5 +17,5 @@ Excellence Academy is a **coaching website** designed to provide information abo
 
 ## Live Demo
 
-Check out the live website here: [Excellence Acadmey](excellence-academy-hld.netlify.app)
+Check out the live website here: [Excellence Acadmey](https://excellence-academy-hld.netlify.app)
 
